@@ -1,0 +1,43 @@
+<div class="row item">
+                    <div class="left-column flavor">French Vanilla</div>
+                    <div class="right-column price">3.00</div>
+                </div>
+                <p style="display:inline;">
+                    <span>Home</span>
+                    <span style="margin-left:230px;">$: 0</span>
+                </p>
+                <article class="item">
+                    <label class="flavor">Caramel Macchiato</label>
+                    <label class="column price">3.75</label>
+                </article>
+                <article class="item">
+                    <p class="flavor">Pumpkin Spice</p>
+                    <p class="price">3.50</p>
+                </article>
+                <article class="item">
+                    <p class="flavor">Hazelnut</p>
+                    <p class="price">4.00</p>
+                </article>
+                <article class="item">
+                    <p class="flavor">Mocha</p>
+                    <p class="price">4.50</p>
+                </article>
+
+		<article class="item">
+                    <p class="dessert">Donut</p>
+                    <p class="price">1.50</p>
+                </article>
+                <article class="item">
+                    <p class="dessert">Cherry Pie</p>
+                    <p class="price">2.75</p>
+                </article>
+                <article class="item">
+                    <p class="dessert">Cheesecake</p>
+                    <p class="price">3.00</p>
+                </article>
+                <article class="item">
+                    <p class="dessert">Cinnamon Roll</p>
+                    <p class="price">2.50</p>
+                </article>
+
+/* <img src="images/big-data.jpg" alt="pie icon" /> */
